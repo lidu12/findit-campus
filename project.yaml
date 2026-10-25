@@ -1,0 +1,31 @@
+
+
+schema: "1"
+
+
+title: "FindIt Campus"
+
+
+summary: "An app that helps university students report and find lost items on campus so that lost belongings can be returned to their owners."
+
+members:
+  - name: "Lidiya Aramde"             
+    student_id: "UGR/7616/16"        
+    email: "lidiyurr@gmail.com"
+    github: "lidu12"           
+    lab_folder: "labs/lidu12"   
+  - name: "Ruth Zelalem"
+    student_id: ""
+    email: "ruthzelalem65@gmail.com"
+    github: "ruthzelalem65-dotcom"
+    lab_folder: "labs/ruthzelalem65-dotcom"
+  - name: "Tesnim Hussien"
+    student_id: ""
+    email: "tesnimhussien432@gmailcom"
+    github: "temihuss"
+    lab_folder: "labs/temihuss"
+  - name: ""
+    student_id: ""
+    email: ""
+    github: ""
+    lab_folder: ""
