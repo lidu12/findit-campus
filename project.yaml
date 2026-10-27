@@ -3,10 +3,10 @@
 schema: "1"
 
 
-title: "FindIt Campus"
+title: "Study Group Finder"
 
 
-summary: "An app that helps university students report and find lost items on campus so that lost belongings can be returned to their owners."
+summary: "A mobile application that helps university students find compatible study partners, organize collaborative study sessions, and improve their learning through an AI-powered study planner."
 
 members:
   - name: "Lidiya Aramde"             
